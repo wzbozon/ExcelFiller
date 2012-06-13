@@ -1,0 +1,10 @@
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\CSharpExcelWeb.Properties.Resources.resources
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\CSharpExcelWeb.csproj.ResolveComReference.cache
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\CSharpExcelWeb.Form1.resources
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\bin\Debug\CSharpExcelWeb.exe
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\bin\Debug\CSharpExcelWeb.pdb
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\CSharpExcelWeb.exe
+C:\MY PROGRAMS\2012\C#+Excel+Web\CSharpExcelWeb\CSharpExcelWeb\obj\x86\Debug\CSharpExcelWeb.pdb
